@@ -1,48 +1,56 @@
 {
   "companies": [
     {
+      "id": 0,
       "name": "Microsoft",
       "location": "Casablanca",
       "numOfJobs": 90,
       "stars": 4
     },
     {
+      "id": 1,
       "name": "Oracle",
       "location": "Casablanca",
       "numOfJobs": 35,
       "stars": 3
     },
     {
+      "id": 2,
       "name": "Dell Technologies",
       "location": "Casablanca",
       "numOfJobs": 15,
       "stars": 4
     },
     {
+      "id": 3,
       "name": "Procter & Gamble",
       "location": "Rabat",
       "numOfJobs": 25,
       "stars": 3
     },
     {
+      "id": 4,
       "name": "Royal Air Maroc",
       "location": "Rabat",
       "numOfJobs": 25,
       "stars": 2
     },
     {
+      "id": 5,
       "name": "Deloitte",
       "location": "Rabat",
       "numOfJobs": 6,
       "stars": 3
     },
     {
+      "id": 6,
       "name": "IBM",
       "location": "Casablanca",
       "numOfJobs": 4,
       "stars": 3
     },
     {
+      "id": 7,
       "name": "Safran",
       "location": "Casablanca",
       "numOfJobs": 15,
