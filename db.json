@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Microsoft",
       "location": "Casablanca",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare ipsum est, in tempus tellus pellentesque vitae. Praesent nulla neque, sodales vitae tempus scelerisque, aliquet vitae tellus. Etiam posuere auctor fringilla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur hendrerit ipsum dui, eget malesuada velit pellentesque ac. Sed faucibus odio in feugiat aliquam. Pellentesque accumsan augue et nunc maximus, eu ornare urna tempor. Vivamus mollis ornare lorem, sit amet semper nisi commodo sit amet. Donec elementum eros tellus, in feugiat felis laoreet id. Cras id lacus sed nulla venenatis posuere.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "numOfJobs": 90,
       "stars": 4
     },
@@ -12,7 +12,7 @@
       "id": 1,
       "name": "Oracle",
       "location": "Casablanca",
-      "description": "Quisque ut magna condimentum turpis rhoncus facilisis. Donec at tristique nunc, ac dapibus augue. Fusce nec efficitur tellus. Ut sodales fringilla nisl, vel porta est hendrerit a. Vivamus nec nunc leo. Nunc ut laoreet magna, quis fringilla libero. Curabitur laoreet est ut blandit vestibulum. Vestibulum ac nisi luctus, blandit nisl vestibulum, dapibus enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "numOfJobs": 35,
       "stars": 3
     },
@@ -28,7 +28,7 @@
       "id": 3,
       "name": "Procter & Gamble",
       "location": "Rabat",
-      "description": "Vestibulum ultrices vehicula metus, ut feugiat risus tincidunt vitae. Sed sapien libero, dictum nec ante non, cursus maximus risus. Phasellus vitae dolor et sem placerat ultricies nec sit amet ante. Suspendisse sodales tempor dignissim. Sed tincidunt enim urna, eu dapibus lacus pharetra at. Donec sit amet sapien porta metus rutrum accumsan sit amet vitae augue. Nulla pulvinar tincidunt euismod. Ut consectetur dui vitae lectus tempus aliquam. Vivamus ultricies libero vel purus sodales, at varius sem vehicula.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "numOfJobs": 25,
       "stars": 3
     },
@@ -52,7 +52,7 @@
       "id": 6,
       "name": "IBM",
       "location": "Casablanca",
-      "description": "Cras non orci maximus, elementum neque non, venenatis leo. Etiam mattis sem eget ante dapibus, eget condimentum sapien porta. Fusce consectetur felis metus, at iaculis nisl dignissim id. Cras non tincidunt nulla, sit amet ultrices tortor. Ut ac ex nulla. Mauris eu erat congue, finibus velit sit amet, luctus tellus. Aenean justo lectus, vulputate congue iaculis at, maximus sed neque. Nunc tempor consectetur ipsum, vel scelerisque nisl. Vivamus rhoncus dui odio, eget bibendum neque dictum vitae. Pellentesque felis magna, tempor ut neque vitae, maximus placerat elit. Maecenas condimentum, metus in commodo commodo, libero eros dictum ligula, sed efficitur ipsum nunc sit amet est. Quisque fringilla, sapien non aliquet finibus, magna enim hendrerit purus, a tristique sem leo sit amet felis. Pellentesque cursus lorem lectus, sed interdum ipsum porta vel. Morbi euismod metus vel nisl consectetur, ac eleifend tellus tristique. Vivamus volutpat nec metus quis porttitor. Mauris dignissim metus at tellus rhoncus, eu laoreet velit fringilla.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "numOfJobs": 4,
       "stars": 3
     },
